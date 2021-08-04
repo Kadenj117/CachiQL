@@ -1,6 +1,6 @@
 
 
-![Alt text](./cachiql-demo/src/assets/SmallCachiql.svg)
+![Alt text](./cachiql-demo/src/assets/cachiqlWhiteLogo.svg)
 
 # About CachiQL
 
